@@ -1,0 +1,14 @@
+c:\git\dog\dog\bin\Debug\dog.exe.config
+c:\git\dog\dog\bin\Debug\dog.exe
+c:\git\dog\dog\bin\Debug\dog.pdb
+c:\git\dog\dog\obj\Debug\dog.csprojResolveAssemblyReference.cache
+c:\git\dog\dog\obj\Debug\MainWindow.g.cs
+c:\git\dog\dog\obj\Debug\App.g.cs
+c:\git\dog\dog\obj\Debug\dog_MarkupCompile.cache
+c:\git\dog\dog\obj\Debug\dog_MarkupCompile.lref
+c:\git\dog\dog\obj\Debug\MainWindow.baml
+c:\git\dog\dog\obj\Debug\dog.g.resources
+c:\git\dog\dog\obj\Debug\dog.Properties.Resources.resources
+c:\git\dog\dog\obj\Debug\dog.csproj.GenerateResource.Cache
+c:\git\dog\dog\obj\Debug\dog.exe
+c:\git\dog\dog\obj\Debug\dog.pdb
